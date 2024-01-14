@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94494338441",
+    "project_id": "oracle-1b9fa",
+    "storage_bucket": "oracle-1b9fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94494338441:android:b70c096c2ab3fbd1b78558",
+        "android_client_info": {
+          "package_name": "com.example.oracle_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZ_0eWlkFIEdsDoGimQAc-qPiQn9-6v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
